@@ -1,7 +1,14 @@
 # Project-2
+## A Case for Crypto as Legal Tender
+![crypto_pic](https://user-images.githubusercontent.com/78506291/123009759-58e13080-d38b-11eb-8763-e1a69c502e73.PNG)
 
 Premise:  Back in the days, people used to exchage goods, or even trade gold for those goods. Nowadays, countries use different currencies that serve as fiat money in exchage for goods and services.Gary Gensler believes that Crypto is the next step in the evolution of money and trade barters. El Salvador has officially declared Bitcoin legal tender, while Turkey and China have banned it. Using the NewsAPi, we pulled 20 news articles relevant to Bitcoin in countries such as El Salvador, Guatemala, Panama, Brazil, Turkey, Iran, and China. We then calculated the overall sentiment of those news article and created a dataframe. One of the reasons El Salvador decided to adopt Bitcoin is to simplify the process for the diaspora to transfer money into El Salvador. Considering that factor, we collected some economic as well as demographic data from the IMF and used machine learning to find hidden correlation between the economics. Using the sentiment analysis and the machine learning, we are considering which of the seven countries should or could be next in adopting Bitcoin as legal tender. He believes that it is the next step in the evolution of money and trade barters. Back in the days, people used to trade goods for goods, or for gold, and then fiat money, the next step would be crypto.
 
+## Intro
+On June 5th President Nayib Bukele announced El Salvador's intention to accept Bitcoin as legal tender and to one day mine Bitcoin in El Salvador. This announcement was a shock around the world as El Salvador became the first nation to officially use Bitcoin as legal tender. This announcement raised many questions. What factors lead to this decision? What affects would this have on El Salvador? or Bitcoin in the midst of trending negative sentiment?  What countries if any will follow suit? 
+
+## Hypothesis
+We believe that countries, have an overall positive sentitment about cryptocurrency, that have younger leadership, high migration to the US, high inflation and renewable energy capacity. 
 
 ## Dataframe Containing Sentiment
 
