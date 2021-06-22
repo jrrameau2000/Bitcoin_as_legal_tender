@@ -8,3 +8,9 @@ Hypothesis: Use NLP to analyze general sentiment of leadership, prominent charac
 Using NewsApi, we pulled 20 relevant news articles on Bitcoin regarding these seven countries. The dataframe contains a sentiment score on the title of the article,
 the description of the article, as well as the content of the article. After collecting the score of each aspect from the articles, an "Overall" score is calculated by applying a weight of 0.6, 0.3, 0.1, to the content, description, and title respectively.
 ![image](https://user-images.githubusercontent.com/79224741/122848608-e7947580-d2d7-11eb-9dd4-0620af42aac6.png)
+
+## Overall Sentiment
+After calculating the overall sentiment from 140 articles from 7 countries, the average of overall sentiment score of articles from each country is calculated and then graphed on a bar chart.
+
+![image](https://user-images.githubusercontent.com/79224741/122849132-edd72180-d2d8-11eb-97ac-0509a78b8d82.png)
+
