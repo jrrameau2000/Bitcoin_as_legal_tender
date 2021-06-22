@@ -1,3 +1,5 @@
+![Linear_reg](https://user-images.githubusercontent.com/78506291/123009963-b70e1380-d38b-11eb-80a9-6555d528dd5f.PNG)
+![Linear_reg](https://user-images.githubusercontent.com/78506291/123009980-bd9c8b00-d38b-11eb-8122-afacfe7c2369.PNG)
 # Project-2
 ## A Case for Crypto as Legal Tender
 ![crypto_pic](https://user-images.githubusercontent.com/78506291/123009759-58e13080-d38b-11eb-8763-e1a69c502e73.PNG)
@@ -46,4 +48,9 @@ One of the other major contributing factors to El Salvador's using Bitcoin as le
 
 ## Remewable Energy Capacity by Region
 ![renewable_energy](https://user-images.githubusercontent.com/78506291/123003222-e4a18f80-d380-11eb-99d2-9ff65e985e56.PNG)
+
+## Linear Regression Model!
+[Linear_reg](https://user-images.githubusercontent.com/78506291/123010031-d0af5b00-d38b-11eb-807d-ed9920caa63e.PNG)
+![image](https://user-images.githubusercontent.com/78506291/123010145-018f9000-d38c-11eb-929c-1504f0fe0a5a.png)
+
 
