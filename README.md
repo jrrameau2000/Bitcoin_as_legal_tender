@@ -15,15 +15,28 @@ After calculating the overall sentiment from 140 articles from 7 countries, the 
 ![image](https://user-images.githubusercontent.com/79224741/122849132-edd72180-d2d8-11eb-97ac-0509a78b8d82.png)
 
 ## What's Age Got to do with it?
-Mid June of this year El Salvador relesased huge news about changing its legal tender to Bitcoin. This groundbreaking information made El Salvador the first country to make such a bold update to its financial system. Behind every bold decision, is a bold individual. It just so happens that El Salvador is under the leadership of 39 year old Nayib Bukele. Bitcoin has a history of beening favored by the young and bashed by the old. Younger crowds are challenging the status quo when it comes to politics, sexuality, womens rights and even finance. Shifting the power from the Federal Reseve to Blockchain is an active goal that "whippersnappers" are looking to accomplish. The data below shows some interesting Bitcoin and age correlations that helps to understand El Salvador's latest move.
+Mid June of this year El Salvador relesased huge news about changing its legal tender to Bitcoin. This groundbreaking information made El Salvador the first country to make such a bold update to its financial system. Behind every bold decision, is a bold individual. It just so happens that El Salvador is under the leadership of 39 year old Nayib Bukele. Bitcoin has a history of beening favored by the young and bashed by the old. Younger crowds are challenging the status quo when it comes to politics, sexuality, womens rights and even finance. Shifting the power of the Federal Reseve to Blockchain is an active goal that "whippersnappers" are looking to accoomplish. The data below shows some interesting Bitcoin and age data.
 
 ![image](https://user-images.githubusercontent.com/79435102/122999026-bf5e5280-d37b-11eb-98f0-8f3a4f26d4a1.png)
 
 ![image](https://user-images.githubusercontent.com/79435102/122999212-fa608600-d37b-11eb-9b90-4756633dd940.png)
 
-## Children Are Our Future
-There is a famous saying that "children are our future" and the stats below show that "children" (young people) are in love with the features of Bitcoin and other crytocurrencies. If children are our future, then the decisions they make and actions they take are our future as well.  
-
 ![image](https://user-images.githubusercontent.com/79435102/122999299-15cb9100-d37c-11eb-813c-49e4c6ee0be3.png)
 
 ![image](https://user-images.githubusercontent.com/79435102/122999367-31369c00-d37c-11eb-98a8-057fd03358ed.png)
+
+## The Migration Factor
+"In the short term this will generate jobs and help provide financial inclusion to thousands outside the formal economy," Bukele said in a video shown at the Bitcoin 2021 conference in Miami. Across the world one of the major benefits of using cryptocurrency was the ability to send money globally. El Salvador specifically has an enormous case to make when it comes to the rate in which it's citizen are moving to the US. 
+
+## Yearly Legal Migration to U.S
+![bokeh_plot](https://user-images.githubusercontent.com/78506291/123001051-50362d80-d37e-11eb-9c28-8315db4f0339.png)
+
+## Percentage of Mirgants to U.S by Naturalized Country Population
+![imm_pct_bar](https://user-images.githubusercontent.com/78506291/123002012-6395c880-d37f-11eb-9a95-fddd3603761b.PNG)
+
+## Renewable Energy Factor
+One of the other major contributing factors to El Salvador's using Bitcoin as legal tender is their ability to mine Bitcoin in facilities powered by renewable energy. 
+
+## Remewable Energy Capacity by Region
+![renewable_energy](https://user-images.githubusercontent.com/78506291/123003222-e4a18f80-d380-11eb-99d2-9ff65e985e56.PNG)
+
