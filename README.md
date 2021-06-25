@@ -1,7 +1,4 @@
-![Linear_reg](https://user-images.githubusercontent.com/78506291/123009963-b70e1380-d38b-11eb-80a9-6555d528dd5f.PNG)
-![Linear_reg](https://user-images.githubusercontent.com/78506291/123009980-bd9c8b00-d38b-11eb-8122-afacfe7c2369.PNG)
-# Project-2
-## A Case for Crypto as Legal Tender
+# A Case for Crypto as Legal Tender
 ![crypto_pic](https://user-images.githubusercontent.com/78506291/123009759-58e13080-d38b-11eb-8763-e1a69c502e73.PNG)
 
 Premise:  Back in the days, people used to exchage goods, or even trade gold for those goods. Nowadays, countries use different currencies that serve as fiat money in exchage for goods and services.Gary Gensler believes that Crypto is the next step in the evolution of money and trade barters. El Salvador has officially declared Bitcoin legal tender, while Turkey and China have banned it. Using the NewsAPi, we pulled 20 news articles relevant to Bitcoin in countries such as El Salvador, Guatemala, Panama, Brazil, Turkey, Iran, and China. We then calculated the overall sentiment of those news article and created a dataframe. One of the reasons El Salvador decided to adopt Bitcoin is to simplify the process for the diaspora to transfer money into El Salvador. Considering that factor, we collected some economic as well as demographic data from the IMF and used machine learning to find hidden correlation between the economics. Using the sentiment analysis and the machine learning, we are considering which of the seven countries should or could be next in adopting Bitcoin as legal tender. He believes that it is the next step in the evolution of money and trade barters. Back in the days, people used to trade goods for goods, or for gold, and then fiat money, the next step would be crypto.
